@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "! ﾶﾉズﾑ (Hafizdkren#0990)",
+        "name": "Transparent AMOLED",
+        "version": "1.0.0",
+        "license": "MIT"
+    },
+    "background": {
+        "blur_radius": 2
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/609915767181279233\/963572698045370398\/JetBrainsMono-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": 2131646805,
+        "input_background": 1275030487,
+        "accent": -1510042927,
+        "mention_highlight": 838808471,
+        "active_channel": -1112698693,
+        "blocked_bg": 1047392767
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
