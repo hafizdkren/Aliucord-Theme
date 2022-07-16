@@ -3,7 +3,8 @@
         "author": "! ﾶﾉズﾑ (Hafizdkren#0990)",
         "name": "Transparent AMOLED",
         "version": "1.0.0",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https\/\/raw.raw.githubusercontent.com/hafizdkren/Aliucord-Theme/main/Transparent%20AMOLED.json"
     },
     "background": {
         "blur_radius": 2
